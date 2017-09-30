@@ -73,7 +73,7 @@ def estPair(nbre):
     else:
         return False
 
-nbre = int(input("Entre le nombre"))
+nbre = int(input("Entre le nombre de votre choix"))
 print(estPair(nbre))
 
 
